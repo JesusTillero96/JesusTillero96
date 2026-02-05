@@ -32,4 +32,4 @@
 
 ### 📬 Reach Me
 📧 jesusdanie2232@gmail.com  
-💼 LinkedIn www.linkedin.com/in/jesustillerox
+💼 www.linkedin.com/in/jesustillerox
