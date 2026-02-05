@@ -2,6 +2,8 @@
 <h3 align="center">IT Support | Python | Cloud</h3>
 
 ---
+<img width="1920" height="544" alt="Generated Image February 04, 2026 - 9_56PM" src="https://github.com/user-attachments/assets/c00549cc-d61e-49a5-8c22-e86a6865f762" />
+
 
 ### 🧠 About Me
 - 🔧 L1/L2 Technical Support
