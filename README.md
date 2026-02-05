@@ -2,7 +2,8 @@
 <h3 align="center">IT Support | Python | Cloud | SQL|</h3>
 
 ---
-<img width="1920" height="544" alt="Banner Full stack" src="https://github.com/user-attachments/assets/44950df1-63ab-4a82-8dfd-1ff8030225da" />
+<img width="1920" height="444" alt="Banner Full stack" src="https://github.com/user-attachments/assets/8555839b-b21d-4a27-aab9-7c959cf1ef10" />
+
 
 
 ### 🧠 About Me
